@@ -1,0 +1,12 @@
+# MED
+
+| Course | Overall | Section |
+| ------ | ------- | ------- |
+| MED 225 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Spring/blob/main/overall/MED%20225.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Spring/main/plot_overall/MED%20225.png) |  |
+| MED 246 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Spring/blob/main/overall/MED%20246.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Spring/main/plot_overall/MED%20246.png) |  |
+| MED 262 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Spring/blob/main/overall/MED%20262.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Spring/main/plot_overall/MED%20262.png) |  |
+| MED 265 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Spring/blob/main/overall/MED%20265.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Spring/main/plot_overall/MED%20265.png) |  |
+| MED 267 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Spring/blob/main/overall/MED%20267.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Spring/main/plot_overall/MED%20267.png) |  |
+| MED 275 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Spring/blob/main/overall/MED%20275.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Spring/main/plot_overall/MED%20275.png) |  |
+| MED 278 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Spring/blob/main/overall/MED%20278.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Spring/main/plot_overall/MED%20278.png) |  |
+| MED 296 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Spring/blob/main/overall/MED%20296.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Spring/main/plot_overall/MED%20296.png) | Section 001: [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Spring/blob/main/section/MED%20296_001.csv)<br>Section 002: [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Spring/blob/main/section/MED%20296_002.csv)<br>Section 003: [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Spring/blob/main/section/MED%20296_003.csv)<br>Section 004: [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Spring/blob/main/section/MED%20296_004.csv)<br>Section 005: [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Spring/blob/main/section/MED%20296_005.csv) |

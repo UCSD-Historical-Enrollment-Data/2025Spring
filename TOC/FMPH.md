@@ -1,0 +1,5 @@
+# FMPH
+
+| Course | Overall | Section |
+| ------ | ------- | ------- |
+| FMPH 291 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Spring/blob/main/overall/FMPH%20291.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Spring/main/plot_overall/FMPH%20291.png) | Section A: [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Spring/blob/main/section/FMPH%20291_A.csv)<br>Section B: [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Spring/blob/main/section/FMPH%20291_B.csv)<br>Section C: [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Spring/blob/main/section/FMPH%20291_C.csv)<br>Section D: [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Spring/blob/main/section/FMPH%20291_D.csv)<br>Section E: [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Spring/blob/main/section/FMPH%20291_E.csv)<br>Section F: [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Spring/blob/main/section/FMPH%20291_F.csv)<br>Section G: [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Spring/blob/main/section/FMPH%20291_G.csv) |

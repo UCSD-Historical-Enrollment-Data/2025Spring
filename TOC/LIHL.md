@@ -1,0 +1,12 @@
+# LIHL
+
+| Course | Overall | Section |
+| ------ | ------- | ------- |
+| LIHL 112P | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Spring/blob/main/overall/LIHL%20112P.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Spring/main/plot_overall/LIHL%20112P.png) |  |
+| LIHL 114P | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Spring/blob/main/overall/LIHL%20114P.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Spring/main/plot_overall/LIHL%20114P.png) |  |
+| LIHL 117P | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Spring/blob/main/overall/LIHL%20117P.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Spring/main/plot_overall/LIHL%20117P.png) |  |
+| LIHL 118 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Spring/blob/main/overall/LIHL%20118.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Spring/main/plot_overall/LIHL%20118.png) |  |
+| LIHL 124P | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Spring/blob/main/overall/LIHL%20124P.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Spring/main/plot_overall/LIHL%20124P.png) |  |
+| LIHL 132P | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Spring/blob/main/overall/LIHL%20132P.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Spring/main/plot_overall/LIHL%20132P.png) |  |
+| LIHL 134P | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Spring/blob/main/overall/LIHL%20134P.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Spring/main/plot_overall/LIHL%20134P.png) |  |
+| LIHL 138 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Spring/blob/main/overall/LIHL%20138.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Spring/main/plot_overall/LIHL%20138.png) |  |

@@ -1,0 +1,9 @@
+# TDHT
+
+| Course | Overall | Section |
+| ------ | ------- | ------- |
+| TDHT 10 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Spring/blob/main/overall/TDHT%2010.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Spring/main/plot_overall/TDHT%2010.png) |  |
+| TDHT 101 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Spring/blob/main/overall/TDHT%20101.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Spring/main/plot_overall/TDHT%20101.png) | Section A: [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Spring/blob/main/section/TDHT%20101_A.csv)<br>Section B: [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Spring/blob/main/section/TDHT%20101_B.csv) |
+| TDHT 104 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Spring/blob/main/overall/TDHT%20104.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Spring/main/plot_overall/TDHT%20104.png) |  |
+| TDHT 115 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Spring/blob/main/overall/TDHT%20115.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Spring/main/plot_overall/TDHT%20115.png) |  |
+| TDHT 23 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Spring/blob/main/overall/TDHT%2023.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Spring/main/plot_overall/TDHT%2023.png) |  |

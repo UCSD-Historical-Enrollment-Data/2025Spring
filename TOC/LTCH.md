@@ -1,0 +1,5 @@
+# LTCH
+
+| Course | Overall | Section |
+| ------ | ------- | ------- |
+| LTCH 101 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Spring/blob/main/overall/LTCH%20101.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Spring/main/plot_overall/LTCH%20101.png) |  |

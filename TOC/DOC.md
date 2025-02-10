@@ -1,0 +1,6 @@
+# DOC
+
+| Course | Overall | Section |
+| ------ | ------- | ------- |
+| DOC 100D | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Spring/blob/main/overall/DOC%20100D.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Spring/main/plot_overall/DOC%20100D.png) | Section A: [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Spring/blob/main/section/DOC%20100D_A.csv)<br>Section B: [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Spring/blob/main/section/DOC%20100D_B.csv) |
+| DOC 3 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Spring/blob/main/overall/DOC%203.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Spring/main/plot_overall/DOC%203.png) | Section A: [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Spring/blob/main/section/DOC%203_A.csv)<br>Section B: [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Spring/blob/main/section/DOC%203_B.csv)<br>Section C: [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Spring/blob/main/section/DOC%203_C.csv)<br>Section D: [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Spring/blob/main/section/DOC%203_D.csv) |

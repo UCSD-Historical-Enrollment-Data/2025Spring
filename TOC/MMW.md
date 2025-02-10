@@ -1,0 +1,6 @@
+# MMW
+
+| Course | Overall | Section |
+| ------ | ------- | ------- |
+| MMW 13 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Spring/blob/main/overall/MMW%2013.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Spring/main/plot_overall/MMW%2013.png) | Section A: [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Spring/blob/main/section/MMW%2013_A.csv)<br>Section B: [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Spring/blob/main/section/MMW%2013_B.csv)<br>Section C: [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Spring/blob/main/section/MMW%2013_C.csv)<br>Section D: [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Spring/blob/main/section/MMW%2013_D.csv) |
+| MMW 15 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Spring/blob/main/overall/MMW%2015.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Spring/main/plot_overall/MMW%2015.png) | Section A: [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Spring/blob/main/section/MMW%2015_A.csv)<br>Section B: [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Spring/blob/main/section/MMW%2015_B.csv) |

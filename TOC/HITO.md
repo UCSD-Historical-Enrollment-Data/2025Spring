@@ -1,0 +1,8 @@
+# HITO
+
+| Course | Overall | Section |
+| ------ | ------- | ------- |
+| HITO 100 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Spring/blob/main/overall/HITO%20100.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Spring/main/plot_overall/HITO%20100.png) |  |
+| HITO 170 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Spring/blob/main/overall/HITO%20170.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Spring/main/plot_overall/HITO%20170.png) |  |
+| HITO 193 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Spring/blob/main/overall/HITO%20193.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Spring/main/plot_overall/HITO%20193.png) |  |
+| HITO 87 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Spring/blob/main/overall/HITO%2087.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Spring/main/plot_overall/HITO%2087.png) | Section A: [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Spring/blob/main/section/HITO%2087_A.csv)<br>Section B: [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Spring/blob/main/section/HITO%2087_B.csv) |

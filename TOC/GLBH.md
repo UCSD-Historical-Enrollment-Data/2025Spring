@@ -1,0 +1,21 @@
+# GLBH
+
+| Course | Overall | Section |
+| ------ | ------- | ------- |
+| GLBH 101 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Spring/blob/main/overall/GLBH%20101.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Spring/main/plot_overall/GLBH%20101.png) |  |
+| GLBH 107 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Spring/blob/main/overall/GLBH%20107.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Spring/main/plot_overall/GLBH%20107.png) |  |
+| GLBH 108 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Spring/blob/main/overall/GLBH%20108.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Spring/main/plot_overall/GLBH%20108.png) |  |
+| GLBH 111 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Spring/blob/main/overall/GLBH%20111.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Spring/main/plot_overall/GLBH%20111.png) | Section A: [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Spring/blob/main/section/GLBH%20111_A.csv)<br>Section B: [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Spring/blob/main/section/GLBH%20111_B.csv) |
+| GLBH 114W | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Spring/blob/main/overall/GLBH%20114W.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Spring/main/plot_overall/GLBH%20114W.png) |  |
+| GLBH 117 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Spring/blob/main/overall/GLBH%20117.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Spring/main/plot_overall/GLBH%20117.png) |  |
+| GLBH 121 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Spring/blob/main/overall/GLBH%20121.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Spring/main/plot_overall/GLBH%20121.png) |  |
+| GLBH 130 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Spring/blob/main/overall/GLBH%20130.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Spring/main/plot_overall/GLBH%20130.png) |  |
+| GLBH 131 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Spring/blob/main/overall/GLBH%20131.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Spring/main/plot_overall/GLBH%20131.png) |  |
+| GLBH 147 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Spring/blob/main/overall/GLBH%20147.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Spring/main/plot_overall/GLBH%20147.png) |  |
+| GLBH 148 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Spring/blob/main/overall/GLBH%20148.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Spring/main/plot_overall/GLBH%20148.png) |  |
+| GLBH 150B | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Spring/blob/main/overall/GLBH%20150B.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Spring/main/plot_overall/GLBH%20150B.png) |  |
+| GLBH 181 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Spring/blob/main/overall/GLBH%20181.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Spring/main/plot_overall/GLBH%20181.png) |  |
+| GLBH 190 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Spring/blob/main/overall/GLBH%20190.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Spring/main/plot_overall/GLBH%20190.png) |  |
+| GLBH 20 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Spring/blob/main/overall/GLBH%2020.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Spring/main/plot_overall/GLBH%2020.png) |  |
+| GLBH 215 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Spring/blob/main/overall/GLBH%20215.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Spring/main/plot_overall/GLBH%20215.png) |  |
+| GLBH 260 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Spring/blob/main/overall/GLBH%20260.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Spring/main/plot_overall/GLBH%20260.png) |  |
