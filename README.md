@@ -1,7 +1,7 @@
 # Spring 2025 Enrollment Data: General Enrollment
 Enrollment data for Spring 2025 for all undergraduate courses and select graduate courses.
 
-[Click here if you just want to be able to see each individual CSV file and graph.](https://github.com/UCSD-Historical-Enrollment-Data/Spring 2025/blob/main/TOC.md)
+[Click here if you just want to be able to see each individual CSV file and graph.](https://github.com/UCSD-Historical-Enrollment-Data/2025Spring/blob/main/TOC.md)
 
 ## Supported Courses
 | Course Level                   | Courses to be Tracked                               |
