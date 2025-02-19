@@ -8,6 +8,7 @@
 | ETHN 110 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Spring/blob/main/overall/ETHN%20110.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Spring/main/plot_overall/ETHN%20110.png) |  |
 | ETHN 112C | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Spring/blob/main/overall/ETHN%20112C.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Spring/main/plot_overall/ETHN%20112C.png) |  |
 | ETHN 121R | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Spring/blob/main/overall/ETHN%20121R.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Spring/main/plot_overall/ETHN%20121R.png) |  |
+| ETHN 122B | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Spring/blob/main/overall/ETHN%20122B.csv) |  |
 | ETHN 123A | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Spring/blob/main/overall/ETHN%20123A.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Spring/main/plot_overall/ETHN%20123A.png) |  |
 | ETHN 127 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Spring/blob/main/overall/ETHN%20127.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Spring/main/plot_overall/ETHN%20127.png) |  |
 | ETHN 140 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Spring/blob/main/overall/ETHN%20140.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Spring/main/plot_overall/ETHN%20140.png) |  |

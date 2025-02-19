@@ -12,5 +12,8 @@
 | BIOM 242 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Spring/blob/main/overall/BIOM%20242.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Spring/main/plot_overall/BIOM%20242.png) |  |
 | BIOM 246 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Spring/blob/main/overall/BIOM%20246.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Spring/main/plot_overall/BIOM%20246.png) |  |
 | BIOM 252 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Spring/blob/main/overall/BIOM%20252.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Spring/main/plot_overall/BIOM%20252.png) |  |
+| BIOM 272 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Spring/blob/main/overall/BIOM%20272.csv) |  |
+| BIOM 274 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Spring/blob/main/overall/BIOM%20274.csv) |  |
 | BIOM 283 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Spring/blob/main/overall/BIOM%20283.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Spring/main/plot_overall/BIOM%20283.png) |  |
+| BIOM 285 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Spring/blob/main/overall/BIOM%20285.csv) |  |
 | BIOM 295 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Spring/blob/main/overall/BIOM%20295.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Spring/main/plot_overall/BIOM%20295.png) |  |

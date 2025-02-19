@@ -81,6 +81,7 @@
 | JWSP | [JWSP](TOC/JWSP.md) |
 | LATI | [LATI](TOC/LATI.md) |
 | LIAB | [LIAB](TOC/LIAB.md) |
+| LIDS | [LIDS](TOC/LIDS.md) |
 | LIFR | [LIFR](TOC/LIFR.md) |
 | LIGM | [LIGM](TOC/LIGM.md) |
 | LIGN | [LIGN](TOC/LIGN.md) |
@@ -110,6 +111,7 @@
 | MAE | [MAE](TOC/MAE.md) |
 | MATH | [MATH](TOC/MATH.md) |
 | MATS | [MATS](TOC/MATS.md) |
+| MBC | [MBC](TOC/MBC.md) |
 | MCWP | [MCWP](TOC/MCWP.md) |
 | MED | [MED](TOC/MED.md) |
 | MGT | [MGT](TOC/MGT.md) |
